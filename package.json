@@ -1,6 +1,6 @@
 {
   "name": "sanipack",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Enhanced Sanity.io plugin development experience",
   "main": "src/index.js",
   "scripts": {
